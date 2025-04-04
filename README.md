@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**kotlalokeshwari098/kotlalokeshwari098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I'm Lokeshwari Kotla
 
-Here are some ideas to get you started:
+I'm a passionate developer currently exploring the world of **Java Full-Stack Development** and **Data Engineering**, with dreams of one day working in **Formula 1** tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- React.js, JavaScript, Spring Boot
+
+## 💬 Ask me about:
+- Java, Web Dev basics, Hackathon tips  
+- Open source, project ideas, or just say hi 😊
+
+## 📫 How to reach me:
+- LinkedIn: [kotlalokeshwari](https://www.linkedin.com/in/kotlalokeshwari)
+- Email: kotlalokeshwari098@gmail.com
+
+## ⚡ Fun fact:
+I'm working towards combining my love for **technology**, **innovation**, and **motorsport** to build something extraordinary someday.  
+
+![Lokeshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotlalokeshwari098&show_icons=true&theme=radical)
+
