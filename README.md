@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer currently exploring the world of Java Full-Stack Development and Data Engineering, with dreams of one day working in Formula 1 tech<br><br>🌱 I’m currently learning:<br>React.js, JavaScript, Spring Boot<br><br>💬 Ask me about:<br>Java, Web Dev basics, Hackathon tips<br>Open source, project ideas, or just say hi 😊<br><br>I'm working towards combining my love for technology, innovation, and motorsport to build something extraordinary someday.<br><br>
+I'm a passionate developer currently exploring the world of Java Full-Stack Development and Data Engineering, with dreams of one day working in Formula 1 tech<br><br>🌱 I’m <br><br>I'm working towards combining my love for technology, innovation, and motorsport to build something extraordinary someday.<br><br>
 
 
 ## 🌐 Socials:
