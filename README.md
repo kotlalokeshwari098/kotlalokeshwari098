@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a passionate developer currently exploring the world of Java Full-Stack Development and Data Engineering, with dreams of one day working in Formula 1 tech<br><br>🌱 I’m <br><br>I'm working towards combining my love for technology, innovation, and motorsport to build something extraordinary someday.<br><br>
+I'm a passionate developer currently exploring the world of Java Full-Stack Development and Data Engineering, with dreams of one day working in Formula 1 tech
+
+<br>I'm working towards combining my love for technology, innovation, and motorsport to build something extraordinary someday.<br>
 
 
 ## 🌐 Socials:
