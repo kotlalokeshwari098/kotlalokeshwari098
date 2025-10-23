@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotlalokeshwari098&label=Profile%20views&color=0e75b6&style=flat" alt="kotlalokeshwari098" /> </p>
 
-- 🔭 I’m currently working on [LostandFound](https://github.com/kotlalokeshwari098/Lost_and_Found) and [PrepEase](https://github.com/kotlalokeshwari098/PrepEase)
+- 🔭 I’m currently working on  [PrepEase](https://github.com/kotlalokeshwari098/PrepEase) and [DevsPulse](https://github.com/kotlalokeshwari098/DevsPulse)
 
 <!-- - 🌱 I’m currently learning **SpringBoot, DevOps**-->
 
