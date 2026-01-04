@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotlalokeshwari098&label=Profile%20views&color=0e75b6&style=flat" alt="kotlalokeshwari098" /> </p>
 
-- 🔭 I’m currently working on  [PrepEase](https://github.com/kotlalokeshwari098/PrepEase) and [TuneVote](https://github.com/kotlalokeshwari098/TuneVote)
+<!--- 🔭 I’m currently working on  [PrepEase](https://github.com/kotlalokeshwari098/PrepEase) and [TuneVote](https://github.com/kotlalokeshwari098/TuneVote)-->
 
 <!-- - 🌱 I’m currently learning **SpringBoot, DevOps**-->
 
-- 👯 I’m looking to collaborate on [ReactPlayBook](https://github.com/kotlalokeshwari098/ReactPlaybook)
+<!-- - 👯 I’m looking to collaborate on [ReactPlayBook](https://github.com/kotlalokeshwari098/ReactPlaybook)-->
 
 - 📫 How to reach me **kotlalokeshwari1871@gmail.com**
 
