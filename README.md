@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lokeshwari</h1>
-<h3 align="center">Learning Data Engineering | Curious Builder | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kotlalokeshwari098&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,10 +7,10 @@
 ---
 
 ### 🌱 What I'm currently learning
-- 🧠 **Data Engineering fundamentals**
-- 🐍 Python for data processing & automation  
-- 🗄️ SQL (deep dive: queries, joins, performance, real-world use cases)  
-- ⚙️ Basics of pipelines, data flow & system thinking  
+-  **Data Engineering fundamentals**
+-  Python for data processing & automation  
+-  SQL (deep dive: queries, joins, performance, real-world use cases)  
+-  Basics of pipelines, data flow & system thinking  
 
 ---
 
