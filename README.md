@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Reach me here
-📧 **kotlalokeshwari1871@gmail.com**
+📧 **kotlalokeshwari@gmail.com**
 
 ---
 
