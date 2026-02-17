@@ -5,22 +5,6 @@
 </p>
 
 
-
-### 🌱 What I'm currently learning
--  **Data Engineering fundamentals**
--  Python for data processing & automation  
--  SQL (deep dive: queries, joins, performance, real-world use cases)  
--  Basics of pipelines, data flow & system thinking  
-
----
-
-### 💡 What I enjoy working on
-- Turning **raw data into meaningful insights**
-- Building things that feel **real-world**, not just tutorials
-- Understanding **why** something works, not just *how*
-- Learning by breaking things and fixing them again  
----
-
 ### 📫 Reach me here
 📧 **kotlalokeshwari@gmail.com**
 
